@@ -42,5 +42,5 @@ button:hover{
 
 footer{
 	font-style:oblique; margin:20px; padding:20px;
-	background-color:magenta;
+	background-color:magenta; clear:left;
 }
