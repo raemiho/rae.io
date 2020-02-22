@@ -16,12 +16,10 @@ body{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s; float:none;
   width: 40%; padding:20px 30px;
-=======
   background-color: linear-gradient(right, #330033, #0000cc, #b3ffd9);
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   width: 40%; padding:200px 50px;
->>>>>>> 6cdbfba5f5ed28f290116be73c759c8236094139
 }
 
 .card:hover {
@@ -47,12 +45,10 @@ button:hover{
 
 footer{
 	font-style:oblique; padding:20px; margin:200px 0px;
-=======
-  padding: 2px 20px;
+	padding: 2px 20px;
 }
 
 footer{
 	font-style:oblique; margin:20px;
->>>>>>> 6cdbfba5f5ed28f290116be73c759c8236094139
 	background-color:magenta;
 }
